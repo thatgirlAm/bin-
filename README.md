@@ -24,3 +24,10 @@ pip install pyquaternion
 
 
 autorisation : bash ./PX4-Autopilot/Tools/setup/ubuntu.sh --sim_jammy​
+
+sudo apt-get install libeigen3-dev
+sudo apt-get install libtinyxml-dev
+sudo apt-get install pkg-config
+sudo apt-get install libgstreamer1.0-dev
+sudo apt-get install libfcl-dev
+sudo apt-get install cmake libboost-all-dev`
