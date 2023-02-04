@@ -21,3 +21,6 @@ pip install pyulog \
 pip install numpy \
 pip install toml \
 pip install pyquaternion
+
+
+autorisation : bash ./PX4-Autopilot/Tools/setup/ubuntu.sh --sim_jammy​
