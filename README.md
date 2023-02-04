@@ -1,23 +1,23 @@
 sudo apt install -y \
-	ninja-build \
-	exiftool \
-	python-argparse \
-	python-empy \
-	python-toml \
-	python-numpy \
-	python-yaml \
-	python-dev \
-	python-pip \
-	ninja-build \
-	protobuf-compiler \
-	libeigen3-dev \
-	genromfs
-pip install \
-	pandas \
-	jinja2 \
-	pyserial \
-	cerberus \
-	pyulog \
-	numpy \
-	toml \
-	pyquaternion
+sudo apt install -y ninja-build \
+sudo apt install -y exiftool \
+sudo apt install -y python-argparse \
+sudo apt install -y python-empy \
+sudo apt install -y python-toml \
+sudo apt install -y python-numpy \
+sudo apt install -y python-yaml \
+sudo apt install -y python-dev \
+sudo apt install -y python-pip \
+sudo apt install -y ninja-build \
+sudo apt install -y protobuf-compiler \
+sudo apt install -y libeigen3-dev \
+sudo apt install -y genromfs
+
+pip install pandas \
+pip install jinja2 \
+pip install pyserial \
+pip install cerberus \
+pip install pyulog \
+pip install numpy \
+pip install toml \
+pip install pyquaternion
