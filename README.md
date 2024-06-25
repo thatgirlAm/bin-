@@ -1,3 +1,5 @@
+### No lazy loading here...what a shame
+
 sudo apt install -y \
 sudo apt install -y ninja-build \
 sudo apt install -y exiftool \
